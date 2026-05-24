@@ -65,13 +65,11 @@ git clone https://github.com/yourusername/Connect4-Game.git
 
 [Connect 4 Live Demo](https://Nilabh-Kishlay.github.io/Connect4-Game/)
 
---
 
 ## 📸 Screenshot
 
 ![Connect 4 Screenshot](screenshot.png)
 
---
 
 ## 👨‍💻 Author
 

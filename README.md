@@ -61,18 +61,17 @@ git clone https://github.com/yourusername/Connect4-Game.git
 
 ## 🌐 Live Demo
 
-Add your GitHub Pages link here after deployment:
+🔗 Play the game here:
 
-```bash
-https://yourusername.github.io/Connect4-Game/
-```
+[Connect 4 Live Demo](https://Nilabh-Kishlay.github.io/Connect4-Game/)
 
----
+--
 
 ## 📸 Screenshot
 
-screenshot.png
----
+![Connect 4 Screenshot](screenshot.png)
+
+--
 
 ## 👨‍💻 Author
 

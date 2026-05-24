@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f2f2f2;
+}
+
+h1 {
+  color: #222;
+}
+
+.status {
+  font-size: 22px;
+  margin: 15px;
+  font-weight: bold;
+}
+
+.board {
+  width: 420px;
+  height: 360px;
+  background: #0066cc;
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: repeat(7, 60px);
+  grid-template-rows: repeat(6, 60px);
+  gap: 0;
+  padding: 10px;
+  border-radius: 12px;
+}
+
+.cell {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-radius: 50%;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  background: #000000;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: green;
+}

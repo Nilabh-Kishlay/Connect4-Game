@@ -71,8 +71,7 @@ https://yourusername.github.io/Connect4-Game/
 
 ## 📸 Screenshot
 
-Add screenshot here later.
-
+screenshot.png
 ---
 
 ## 👨‍💻 Author

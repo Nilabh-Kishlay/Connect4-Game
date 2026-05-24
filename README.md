@@ -50,7 +50,7 @@ Connect4-Game/
 1. Download or clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Connect4-Game.git
+git clone https://github.com/Nilabh-Kishlay/Connect4-Game.git
 ```
 
 2. Open project folder
